@@ -16,7 +16,7 @@
 
 - Ask me about **Blender, Unity, and Discord.js**
 
-- How to reach me **lonemythic@gmail.com**
+- How to reach me: **lonemythic@gmail.com**
 
 - Fun fact **I am really hyper half of the time**
 
